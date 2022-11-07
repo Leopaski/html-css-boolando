@@ -22,7 +22,6 @@
 }
 
 .conteiner-flex {
-    display: inline;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -32,8 +31,9 @@
 .sconto50 {
     background-color: red;
     color: white;
-    padding: 0px;
+    padding: 6px;
     position: absolute;
+    top:270px;
 }
 
 .blocco {

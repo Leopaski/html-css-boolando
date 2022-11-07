@@ -12,7 +12,25 @@
 }
 
 .conteiner-flex {
+    display: inline;
     display: flex;
     flex-direction: row;
     align-items: flex-start;
+    justify-content: space-between;
+}
+
+.sconto50 {
+    background-color: red;
+    color: white;
+    padding: 0px;
+    position: absolute;
+}
+
+.blocco {
+    display: block;
+}
+
+.dimensione {
+    width: 200px;
+    height: 300px;
 }

@@ -1,0 +1,18 @@
+.orange {
+    background-color: #ff6f00;
+}
+
+.logo {
+    height: 20px;
+    width: 100px;
+}
+
+.menu {
+    text-decoration-color: white;
+}
+
+.conteiner-flex {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
